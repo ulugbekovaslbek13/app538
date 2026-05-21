@@ -1,0 +1,8 @@
+{
+  "short_name": "AppControl",
+  "name": "System Operational Dashboard Utility",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e1e24",
+  "background_color": "#ffffff"
+}
